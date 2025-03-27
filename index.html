@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repositório de Habilidades</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Habilidades de Matemática</h1>
+        <label for="habilidadeSelect">Escolha uma habilidade:</label>
+        <select id="habilidadeSelect">
+            <option value="">Selecione uma habilidade...</option>
+            <option value="EM13MAT301">EM13MAT301 - Sistemas Lineares Simultâneas</option>
+            <option value="EM13MAT305">EM13MAT305 - Funções Logarítmicas</option>
+            <option value="EM13MAT403">EM13MAT403 - Funções Exponenciais e Logarítmicas</option>
+        </select>
+        <div id="subHabilidadeContainer" style="display: none;">
+            <label for="subHabilidadeSelect">Escolha um tópico:</label>
+            <select id="subHabilidadeSelect">
+                <option value="">Selecione um tópico...</option>
+            </select>
+        </div>
+        <div id="explicacao" class="explicacao" style="display: none;">
+            <h3>Descrição Detalhada:</h3>
+            <p id="textoExplicacao"></p>
+            <div class="mapaMental">
+                <h3>Mapa Mental</h3>
+                <img id="imgMapaMental" src="" alt="Mapa Mental">
+            </div>
+        </div>
+        <button id="resetButton" class="button-reset">Reiniciar</button>
+
+        <div id="imagemAmpliada" class="imagem-ampliada">
+            <span id="fecharImagem" class="fechar-imagem">X</span>
+            <img id="imagemGrande" src="" alt="Imagem ampliada">
+        </div>
+    </div>
+    <footer class="footer">
+        <p>Desenvolvido por: Vitor Hugo Pedroso de Almeida, Leonardo Soares e Laura Baliana</p>
+    </footer>
+    <div id="modal" class="modal">
+        <span class="close">×</span>
+        <img id="modalImg" class="modal-content">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
