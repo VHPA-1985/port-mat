@@ -24,7 +24,7 @@ const subHabilidades = {
     "EM13MAT301": {
         "Sistemas Lineares": {
             descricao: "Sistemas lineares são equações com as mesmas variáveis, e sua solução é o ponto onde se interceptam. São usados em otimização, engenharia e redes econômicas, e resolvidos por métodos como substituição, adição e matrizes.",
-            mapa: "Img/pc-gamer-ad-astra-10.jpg"
+            mapa: "map1.jpg"
         },
         "Matriz": {
             descricao: "Uma matriz é uma tabela usada para representar sistemas lineares e é fundamental em operações como adição, multiplicação e inversão. Ela também é aplicada em computação gráfica, redes de computadores, aprendizado de máquina e física.",
