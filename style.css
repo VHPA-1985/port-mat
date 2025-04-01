@@ -100,9 +100,8 @@ select, button {
     position: fixed;
     top: 30px;
     right: 30px;
-    width: 300px; /* Ajuste conforme necessário */
+    width: 80vw; /* Ajuste conforme necessário */
     height: auto;
-    background-color: rgba(0, 0, 0, 0.7);
     padding: 10px;
     border-radius: 10px;
     z-index: 9999;
