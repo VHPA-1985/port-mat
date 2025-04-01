@@ -117,7 +117,7 @@ select, button {
 
 .fechar-imagem {
     position: absolute;
-    top: 8px;
+    top: 9px;
     right: 15px;
     font-size: 25px;
     color: red;
