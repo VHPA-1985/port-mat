@@ -24,11 +24,11 @@ const subHabilidades = {
     "EM13MAT301": {
         "Sistemas Lineares": {
             descricao: "Sistemas lineares são equações com as mesmas variáveis, e sua solução é o ponto onde se interceptam. São usados em otimização, engenharia e redes econômicas, e resolvidos por métodos como substituição, adição e matrizes.",
-            mapa: "map1.jpg"
+            mapa: "sisLineares.jpg"
         },
         "Matriz": {
             descricao: "Uma matriz é uma tabela usada para representar sistemas lineares e é fundamental em operações como adição, multiplicação e inversão. Ela também é aplicada em computação gráfica, redes de computadores, aprendizado de máquina e física.",
-            mapa: "Images/Matriz.png"
+            mapa: "matrizes.jpg"
         }
     },
     "EM13MAT305": {
@@ -38,7 +38,7 @@ const subHabilidades = {
         },
         "Logaritmo": {
             descricao: "O logaritmo resolve equações exponenciais e tem aplicações em áreas como a escala Richter, criptografia, análise de algoritmos e medição de pH na química..",
-            mapa: "Images/logaritmo.png"
+            mapa: "logaritmo.jpg"
         }
     },
     "EM13MAT403": {
@@ -48,7 +48,7 @@ const subHabilidades = {
         },
         "Função Exponencial": {
             descricao: "A função exponencial descreve o crescimento ou decaimento rápido de uma quantidade, expressa por f(x)=axf(x)=ax, onde aa é uma constante positiva. Ela é usada em fenômenos naturais, como crescimento populacional e decomposição química, e também em finanças, como no cálculo de juros compostos.",
-            mapa: "Images/logaritmo.png"
+            mapa: "funcExponecial.jpg"
         }
     }
 };
