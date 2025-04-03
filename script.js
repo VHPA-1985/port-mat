@@ -44,7 +44,7 @@ const subHabilidades = {
     "EM13MAT403": {
         "Potência": {
             descricao: "As funções de potência envolvem uma base elevada a um expoente e são usadas para descrever fenômenos como o crescimento populacional, juros compostos e radiação em reações nucleares. Elas também são aplicadas em física, como na lei da gravitação de Newton.",
-            mapa: "potencia.jpg"
+            mapa: "potenciacao.jpg"
         },
         "Função Exponencial": {
             descricao: "A função exponencial descreve o crescimento ou decaimento rápido de uma quantidade, expressa por f(x)=axf(x)=ax, onde aa é uma constante positiva. Ela é usada em fenômenos naturais, como crescimento populacional e decomposição química, e também em finanças, como no cálculo de juros compostos.",
