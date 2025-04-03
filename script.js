@@ -34,7 +34,7 @@ const subHabilidades = {
     "EM13MAT305": {
         "Função Logarítmica": {
             descricao: "A função logarítmica, inversa da exponencial, resolve equações com expoentes e facilita cálculos ao transformar multiplicações em somas. É usada para modelar fenômenos como juros compostos e desintegração radioativa.",
-            mapa: "funcLogaritimica.jpg"
+            mapa: "funcLogaritima.jpg"
         },
         "Logaritmo": {
             descricao: "O logaritmo resolve equações exponenciais e tem aplicações em áreas como a escala Richter, criptografia, análise de algoritmos e medição de pH na química..",
@@ -44,7 +44,7 @@ const subHabilidades = {
     "EM13MAT403": {
         "Potência": {
             descricao: "As funções de potência envolvem uma base elevada a um expoente e são usadas para descrever fenômenos como o crescimento populacional, juros compostos e radiação em reações nucleares. Elas também são aplicadas em física, como na lei da gravitação de Newton.",
-            mapa: "Images/funcaologaritmica.png"
+            mapa: "potencia.jpg"
         },
         "Função Exponencial": {
             descricao: "A função exponencial descreve o crescimento ou decaimento rápido de uma quantidade, expressa por f(x)=axf(x)=ax, onde aa é uma constante positiva. Ela é usada em fenômenos naturais, como crescimento populacional e decomposição química, e também em finanças, como no cálculo de juros compostos.",
