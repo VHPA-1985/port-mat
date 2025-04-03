@@ -34,7 +34,7 @@ const subHabilidades = {
     "EM13MAT305": {
         "Função Logarítmica": {
             descricao: "A função logarítmica, inversa da exponencial, resolve equações com expoentes e facilita cálculos ao transformar multiplicações em somas. É usada para modelar fenômenos como juros compostos e desintegração radioativa.",
-            mapa: "Images/funcaologaritmica.png"
+            mapa: "funcLogaritimica.jpg"
         },
         "Logaritmo": {
             descricao: "O logaritmo resolve equações exponenciais e tem aplicações em áreas como a escala Richter, criptografia, análise de algoritmos e medição de pH na química..",
